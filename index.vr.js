@@ -67,7 +67,7 @@ export default class ReactVR_MicDrop extends React.Component {
               {rotateY: 180},
             ],
           }}>
-          Hi Jaime!
+          Grab the mic!
         </Text>
         <Model
           lit
